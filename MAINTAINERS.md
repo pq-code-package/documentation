@@ -4,4 +4,4 @@
 
 | name              | Github    | Discord        |
 |-------------------|-----------|----------------|
-| Tracy Kuhrt       | @tkuhrt   | tkuhrt#7236    |
+| Nigel Jones       | @planetf1 | planetf1       |
