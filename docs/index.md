@@ -1,28 +1,14 @@
 # Introduction
 
-This repository contains a template that will allow you to quickly bring up a documentation site for Hyperledger _PROJECT_. In general, the template provides suggested topics that should be covered in your documentation; however, you can always add/remove content to fit the needs of the project.
+This repository has been populated with a basic getting-started structure
+that we can extend for the PQ code package project.
 
-The following changes need to be done to update the documentation for your project.
+Some todos remain, see below for the list.
+
+During the Hackathon we can hopefully start building this site.
+
 
 ## Configuration Updates
-
-### Site Name
-
-Change the `site_name` tag in `mkdocs.yml` to reflect the name of your Hyperledger project.
-
-!!! example
-    ``` yaml
-    site_name: Hyperledger Bevel
-    ```
-
-### Repo URL
-
-Change the `repo_url` tag in `mkdocs.yml` to reflect the repository of your Hyperledger project.
-
-!!! example
-    ``` yaml
-    repo_url: https://github.com/hyperledger/_PROJECT_
-    ```
 
 ### Project Logo
 
