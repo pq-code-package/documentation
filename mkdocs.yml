@@ -1,4 +1,5 @@
 site_name: PQ Code Package
+site_url: https://docs.pqcodepackage.org/latest/
 repo_name: pq-code-package/documentation
 repo_url: https://github.com/pq-code-package/documentation
 theme:
